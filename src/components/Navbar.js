@@ -11,8 +11,7 @@ import {
   AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
-  AiOutlineUser,
-  AiOutlineDash
+
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
